@@ -1,1 +1,10 @@
 # cpp-assignment
+
+assignment2 question
+1. Write a C++ Program to find Factorial of a number using class.
+2. Write a C++ program to find Reverse of a Number using class.
+3. Write a C++ program to Add two Complex number passing objects to function.
+4. Write a C++ Program to find Largest among 3 numbers using classes.
+5. Write a C++ Program to find Sum of odd numbers between 1 and 100 using class.
+6. Write a C++ Program to Print Numbers from 1 to n using class.
+7. Write a C++ program to Swap two numbers using class.
