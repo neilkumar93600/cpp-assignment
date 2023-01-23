@@ -46,3 +46,13 @@ assingment 3
 3. Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a function named 'returnArea' which returns the area of the rectangle. Length and breadth of the rectangle are entered through keyboard.
 4. Print the average of three numbers entered by the user by creating a class named 'Average' having a function to calculate and print the average without creating any object of the Average class.
 5. Print the sum, difference and product of two complex numbers by creating a class named 'Complex' with separate functions for each operation whose real and imaginary parts are entered by the user.
+
+assignment 4
+1. Reverse an array
+2. Sort an array
+3. Write a program to find frequency of maximum occurred element.
+  Ex: arr = [ 2, 3, 2, 5, 6, 2, 7, 8 , 7, 2, 4]
+  Output: element : 2
+  Frequency: 4
+4. Write program to find sum of two smallest elements in array
+5. Write program to find difference between largest and smallest element of array
