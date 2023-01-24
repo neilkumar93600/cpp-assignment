@@ -56,3 +56,29 @@ assignment 4
   Frequency: 4
 4. Write program to find sum of two smallest elements in array
 5. Write program to find difference between largest and smallest element of array
+
+assignment 5
+1.Write a program for concatenation of an array.
+2.Write a program to find running sum of an array.
+Example: Input: nums = [1,2,3,4]
+Output: [1,3,6,10]
+Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
+
+3.Write a program to find how many numbers are smaller than the current number and return ans in array form.
+Example: Input: nums = [8,1,2,2,3]
+Output: [4,0,1,1,3]
+Explanation: 
+For nums[0]=8 there exist four smaller numbers than it (1, 2, 2 and 3). 
+For nums[1]=1 does not exist any smaller number than it.
+For nums[2]=2 there exist one smaller number than it (1). 
+For nums[3]=2 there exist one smaller number than it (1). 
+For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
+
+4.Write a program to find maximum number of words in a sentence.
+Example: Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
+Output: 6
+Explanation: 
+- The first sentence, "alice and bob love leetcode", has 5 words in total.
+- The second sentence, "i think so too", has 4 words in total.
+- The third sentence, "this is great thanks very much", has 6 words in total.
+Thus, the maximum number of words in a single sentence comes from the third sentence, which has 6 words.
